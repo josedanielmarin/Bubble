@@ -1,0 +1,7 @@
+{
+  "name": "Bubble",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
